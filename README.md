@@ -24,7 +24,7 @@ Normally, a set of UI mockups are designed and shared with the frontend team. Fo
 - Simple text matching for the text search feature is sufficient
 - Filters must be fully functional
 
-  - At a minimum, the user must be able to filter by car type, make, and year
+  - At a minimum, the user must be able to filter by car make, year, and color
   - Feel free to add range sliders for the filters (not required, but extra points)
 
 - Amazing UI/UX
